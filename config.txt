@@ -1,0 +1,20 @@
+# ===============================================================
+# Environment Variables Configuration
+# ===============================================================
+#
+# 直接写关键字即可自动识别：
+# - PATH_Entries: 添加到系统 PATH（多个路径用分号分隔）
+# - PythonPath: 新建系统变量 PythonPath
+# - 用户变量: 变量名=路径1;路径2（可写多个）
+#
+# ===============================================================
+
+# 添加到系统 PATH
+PATH_Entries=C:\Python37\Scripts;C:\Python37;C:\Python27;C:\Program Files\SoftwareA\bin;D:\Tools\SoftwareB\bin
+
+# 新建系统变量 PythonPath
+PythonPath=C:\Projects\MyLib1;C:\Projects\MyLib2
+
+# 新建用户变量（格式：变量名=路径）
+bbb=C:\Lib1;C:\Lib2;C:\Lib3
+ccc=D:\Tools\Lib1;D:\Tools\Lib2

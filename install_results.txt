@@ -1,0 +1,30 @@
+============================================================
+Installation Results
+============================================================
+Time: 2026-06-10 23:00:51
+Total: 4 packages
+============================================================
+
+[Python27]
+Source: E:\Users\Administrator\AppData\Local\Programs\Code\batch_installer\packages\Python27
+Status: Path Only
+InstallPath: E:\Users\Administrator\AppData\Local\Programs\Code\batch_installer\packages\Python27
+
+[Python37]
+Source: E:\Users\Administrator\AppData\Local\Programs\Code\batch_installer\packages\Python37
+Status: Path Only
+InstallPath: E:\Users\Administrator\AppData\Local\Programs\Code\batch_installer\packages\Python37
+
+[SoftwareA]
+Source: E:\Users\Administrator\AppData\Local\Programs\Code\batch_installer\packages\SoftwareA
+Status: Path Only
+InstallPath: E:\Users\Administrator\AppData\Local\Programs\Code\batch_installer\packages\SoftwareA
+
+[SoftwareB]
+Source: E:\Users\Administrator\AppData\Local\Programs\Code\batch_installer\packages\SoftwareB
+Status: Path Only
+InstallPath: E:\Users\Administrator\AppData\Local\Programs\Code\batch_installer\packages\SoftwareB
+
+============================================================
+End of Results
+============================================================
